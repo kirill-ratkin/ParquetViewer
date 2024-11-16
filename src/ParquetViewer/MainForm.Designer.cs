@@ -295,7 +295,7 @@ namespace ParquetViewer
             // 
             // openParquetFileDialog
             // 
-            openParquetFileDialog.Filter = "Parquet Files|*.parquet;*.snappy;*.gz;*.gzip";
+            openParquetFileDialog.Filter = "Parquet Files|*.parquet;*.prq;*.snappy;*.gz;*.gzip";
             // 
             // mainMenuStrip
             // 
